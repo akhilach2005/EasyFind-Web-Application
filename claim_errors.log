@@ -1,0 +1,57 @@
+[2025-04-13 18:37:50] Raw input received: {"itemId":"28","name":"Pavi12","contact":"9949262560","description":"sdfghjkl;"}
+[2025-04-13 18:37:50] Decoded data: Array
+(
+    [itemId] => 28
+    [name] => Pavi12
+    [contact] => 9949262560
+    [description] => sdfghjkl;
+)
+
+[2025-04-13 18:40:52] Raw input received: {"itemId":"23","name":"Pavithra","contact":"1234567890","description":"sdfghjkl"}
+[2025-04-13 18:40:52] Decoded data: Array
+(
+    [itemId] => 23
+    [name] => Pavithra
+    [contact] => 1234567890
+    [description] => sdfghjkl
+)
+
+[2025-04-13 18:51:00] Session data: Array
+(
+    [username] => AP23110011283
+)
+
+[2025-04-13 18:51:00] Raw input received: {"itemId":"28","name":"Pavithra","contact":"1234567890","description":"This is black"}
+[2025-04-13 18:51:00] Decoded data: Array
+(
+    [itemId] => 28
+    [name] => Pavithra
+    [contact] => 1234567890
+    [description] => This is black
+)
+
+[2025-04-13 18:51:00] Checking item with ID: 28
+[2025-04-13 18:51:00] Found item with finder ID: AP23110011298
+[2025-04-13 18:51:00] Attempting to insert claim
+[2025-04-13 18:51:00] Claim inserted with ID: 9
+[2025-04-13 18:51:00] Attempting to insert notification
+[2025-04-13 18:51:00] Transaction committed successfully
+[2025-04-13 18:53:48] Raw input received: {"itemId":"27","name":"Pavithra","contact":"1234567890","description":"1234567890-"}
+[2025-04-13 18:57:15] Raw input received: {"itemId":"11","name":"Akhila","contact":"1234567890","description":"jjsjdsnds"}
+[2025-04-13 18:59:40] Raw input received: {"itemId":"11","name":"Akhila","contact":"1234567890","description":"It is blue in colour."}
+[2025-04-13 19:10:53] Raw input received: {"itemId":"11","name":"Akhila","contact":"1234567890","description":"Laptop"}
+[2025-04-13 19:31:33] Raw input received: {"itemId":"11","name":"Akhila","contact":"1234567890","description":"vsdhshdsdjs"}
+[2025-04-13 20:18:35] Raw input received: {"itemId":"27","name":"Pavi","contact":"1234567890","description":"1234567890okjhgfds"}
+[2025-04-13 20:26:26] Raw input received: {"itemId":"27","name":"Pavithra","contact":"1234567890","description":"Something"}
+[2025-04-14 06:07:43] Raw input received: {"itemId":"11","name":"Akhila","contact":"1234567890","description":"1234567890"}
+[2025-04-14 06:57:04] Raw input received: {"itemId":"27","name":"Pavithra","contact":"1234567890","description":"rjkbshbs"}
+[2025-04-14 06:58:12] Raw input received: {"itemId":"11","name":"Akhila","contact":"1234567890","description":"1234567890"}
+[2025-04-14 07:09:35] Raw input received: {"itemId":"11","name":"123456789","contact":"1234567890","description":"sdfghjkl"}
+[2025-04-14 07:25:43] Raw input received: {"itemId":"1","name":"Pavithra","contact":"3456789o","description":"bvgggg"}
+[2025-04-14 07:25:43] Error: Item not found
+[2025-04-14 07:26:08] Raw input received: {"itemId":"11","name":"Akhila","contact":"1234567890","description":"fghj"}
+[2025-04-14 07:56:41] Raw input received: {"itemId":"34","name":"Akhila","contact":"1234567890","description":"This is mine"}
+[2025-04-14 11:00:49] Raw input received: {"itemId":"33","name":"Akhila","contact":"1234567890","description":"This is mine."}
+[2025-04-14 11:03:11] Raw input received: {"itemId":"35","name":"Pavithra","contact":"1234567890","description":"This is mine...."}
+[2025-04-15 10:57:32] Raw input received: {"itemId":"35","name":"Pavithra","contact":"1234567890","description":"This is mine"}
+[2025-04-15 12:15:25] Raw input received: {"itemId":"33","name":"Pavithra","contact":"2345678901","description":"zzghjkl"}
